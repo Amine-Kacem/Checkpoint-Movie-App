@@ -1,0 +1,18 @@
+#search-container {
+  width: 400px;
+  border-radius: 10px;
+  margin-top: 5%;
+  transform: scale(0.8);
+}
+
+#search-container > input {
+  margin-top: 0px;
+  border: none;
+  outline: none;
+  font-size: 24px;
+  color: white;
+}
+
+#search-container input:focus {
+  outline: 0;
+}
